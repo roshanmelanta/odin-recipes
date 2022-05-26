@@ -1,0 +1,53 @@
+/* Styling for home page */
+
+.title {
+    background-color: orange;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.home {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.subtitle {
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
+
+/* Styling for recipe pages */
+
+.head {
+    background-color: darkslateblue;
+    font-size: 40px;
+    font-family: Verdana, "Segoe UI", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.description {
+    background-color: cornflowerblue;
+    font-size: 30px;
+    font-family: Verdana, "Segoe UI", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: darkcyan;
+    font-size: 30px;
+    font-family: Verdana, "Segoe UI", sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.recipe {
+    background-color: darkcyan;
+    font-size: 30px;
+    font-family: Verdana, "Segoe UI", sans-serif;
+    color: white;
+    text-align: center;
+}
